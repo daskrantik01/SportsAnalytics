@@ -22,9 +22,7 @@ The document concludes by making inferences from the results, stating that past 
 
 The transition probability from state \(i\) to state \(j\) is calculated as:
 
-\[
-P_{ij} = \frac{\text{Number of transitions from state } i \text{ to state } j}{\text{Total transitions from state } i}
-\]
+\[ P_{ij} = \frac{\text{Number of transitions from state } i \text{ to state } j}{\text{Total transitions from state } i}\]
 
 ### Prior and Posterior Distributions
 
